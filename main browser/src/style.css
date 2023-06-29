@@ -73,7 +73,9 @@ background-color: rgb(17, 17, 237);
 }
 .btn3{
     position: relative;
-    top: 50%;}
+    top: 50%;
+    left: 40%;
+   }
 #cost{
     position: relative;
     left: -5%;
